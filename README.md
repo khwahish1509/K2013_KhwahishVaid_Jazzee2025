@@ -37,7 +37,7 @@
 
 ### 🌟 **Made with ❤️ for T$O2025 Hackathon**
 
-**Repository**: `TeamName_TeamLeader_T$O2025`  
+**Repository**: `K2013_KhwahishVaid_T-O2025`  
 **Submission**: T$O2025 Hackathon via Jazzee Edtech
 
 </div>
