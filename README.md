@@ -12,7 +12,7 @@
 ---
 Business model 
 
-![BuisnessModel](https://github.com/user-attachments/assets/82fe6d5c-44b8-4484-b42b-da418b047806)
+<img src="https://github.com/user-attachments/assets/82fe6d5c-44b8-4484-b42b-da418b047806" alt="Business Model" width="600"/>
 
 
 https://www.canva.com/design/DAGqJ9adkzk/pLjOaSisOtYVZoq_WU_DwA/view?utm_content=DAGqJ9adkzk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1d76a3f3ea
