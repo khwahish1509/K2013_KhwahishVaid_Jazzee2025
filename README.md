@@ -5,7 +5,7 @@
 
 ## 🎥 **Demo**
 
-### 📺 **[Watch Our Pitch Video](https://youtube.com/watch?v=YOUR_VIDEO_ID)**
+### 📺 **[Watch Our Pitch Video](https://youtu.be/jmmuJdlUTrw)**
 > *Video Name: TeamName_TeamLeader_T$O2025_PitchVideo*
 
 ### 📄 **[Project Documentation](./TeamName_TeamLeader_T$O2025_Document.pdf)**
