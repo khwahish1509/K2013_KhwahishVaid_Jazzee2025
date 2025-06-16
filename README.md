@@ -13,7 +13,8 @@
 
 ---
 Business model 
-![Uploading WhatsApp Image 2025-06-16 at 10.31.32 PM.jpeg…]()
+
+![BuisnessModel](https://github.com/user-attachments/assets/82fe6d5c-44b8-4484-b42b-da418b047806)
 
 
 https://www.canva.com/design/DAGqJ9adkzk/pLjOaSisOtYVZoq_WU_DwA/view?utm_content=DAGqJ9adkzk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1d76a3f3ea
