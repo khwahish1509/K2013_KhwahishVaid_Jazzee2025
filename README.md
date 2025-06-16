@@ -20,7 +20,8 @@ Business model
 https://www.canva.com/design/DAGqJ9adkzk/pLjOaSisOtYVZoq_WU_DwA/view?utm_content=DAGqJ9adkzk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1d76a3f3ea
 ## 👥 **Team**
 
-<div align="center">
+<div align="center">More actions
+
 | ![TL](https://via.placeholder.com/80x80/4A90E2/FFFFFF?text=TL) | ![M1](https://via.placeholder.com/80x80/E91E63/FFFFFF?text=M1) | ![M2](https://via.placeholder.com/80x80/4CAF50/FFFFFF?text=M2) | ![M3](https://via.placeholder.com/80x80/FF9800/FFFFFF?text=M3) |
 |:---:|:---:|:---:|:---:|
 | Khwahish Vaid | Samarth Sharma | Anay Bhardwaj 
