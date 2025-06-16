@@ -10,7 +10,7 @@
 ### 📄 **[Project Documentation](./Docx.pdf)**
 
 ---
-Business model 
+## **Business model**
 
 <img src="https://github.com/user-attachments/assets/82fe6d5c-44b8-4484-b42b-da418b047806" alt="Business Model" width="600"/>
 
