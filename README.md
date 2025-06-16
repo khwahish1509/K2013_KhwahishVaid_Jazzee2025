@@ -5,9 +5,9 @@
 
 ## 🎥 **Round 1**
 
-### 📺 **[Watch Our Pitch Video](https://youtu.be/jmmuJdlUTrw)**
+### 📺 **[K2013_KhwahishVaid_Jazzee2025_PitchVideo](https://youtu.be/jmmuJdlUTrw)**
 
-### 📄 **[Project Documentation](./K2013_KhwahishVaid_Jazzee2025_Document.pdf)**
+### 📄 **[K2013_KhwahishVaid_Jazzee2025_Document](./K2013_KhwahishVaid_Jazzee2025_Document.pdf)**
 
 ---
 ## 👥 **Team**
