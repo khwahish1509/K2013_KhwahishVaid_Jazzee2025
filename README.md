@@ -6,7 +6,6 @@
 ## 🎥 **Round 1**
 
 ### 📺 **[Watch Our Pitch Video](https://youtu.be/jmmuJdlUTrw)**
-> *Video Name: TeamName_TeamLeader_T$O2025_PitchVideo*
 
 ### 📄 **[Project Documentation](./Docx.pdf)**
 
