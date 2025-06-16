@@ -7,7 +7,7 @@
 
 ### 📺 **[Watch Our Pitch Video](https://youtu.be/jmmuJdlUTrw)**
 
-### 📄 **[Project Documentation](./Docx.pdf)**
+### 📄 **[Project Documentation](./K2013_KhwahishVaid_Jazzee2025_Document.pdf)**
 
 ---
 ## 👥 **Team**
