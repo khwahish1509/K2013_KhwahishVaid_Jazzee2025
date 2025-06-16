@@ -22,7 +22,6 @@ https://www.canva.com/design/DAGqJ9adkzk/pLjOaSisOtYVZoq_WU_DwA/view?utm_content
 
 <div align="center">
 
-| ![TL](https://via.placeholder.com/80x80/4A90E2/FFFFFF?text=TL) | ![M1](https://via.placeholder.com/80x80/E91E63/FFFFFF?text=M1) | ![M2](https://via.placeholder.com/80x80/4CAF50/FFFFFF?text=M2) | ![M3](https://via.placeholder.com/80x80/FF9800/FFFFFF?text=M3) |
 |:---:|:---:|:---:|:---:|
 | Khwahish Vaid | Samarth Sharma | Anay Bhardwaj 
 | Full Stack Dev | Data Engineer | Gen AI 
