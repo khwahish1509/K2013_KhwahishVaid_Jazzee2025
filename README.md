@@ -8,8 +8,7 @@
 ### 📺 **[Watch Our Pitch Video](https://youtu.be/jmmuJdlUTrw)**
 > *Video Name: TeamName_TeamLeader_T$O2025_PitchVideo*
 
-### 📄 **[Project Documentation](./TeamName_TeamLeader_T$O2025_Document.pdf)**
-
+### 📄 **[Project Documentation](./docx.pdf)**
 
 ---
 Business model 
