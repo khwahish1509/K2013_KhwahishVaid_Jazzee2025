@@ -1,5 +1,5 @@
 # 🚀 VisaMate Ai - T$O2025 Hackathon
-## Challenge set -Can You Build Vertical AI Agents That Automate Real Work? 
+## Challenge set - Can You Build Vertical AI Agents That Automate Real Work? 
 
 ## 🎥 **Round 1**
 
