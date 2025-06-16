@@ -12,7 +12,10 @@
 
 
 ---
-Business model https://www.canva.com/design/DAGqJ9adkzk/h7vRg4dKJIEjPtH_P-YHMw/edit?utm_content=DAGqJ9adkzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Business model 
+![Uploading WhatsApp Image 2025-06-16 at 10.31.32 PM.jpeg…]()
+
+https://www.canva.com/design/DAGqJ9adkzk/h7vRg4dKJIEjPtH_P-YHMw/edit?utm_content=DAGqJ9adkzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## 👥 **Team**
 
 <div align="center">
