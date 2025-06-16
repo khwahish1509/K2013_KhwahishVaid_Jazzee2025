@@ -18,9 +18,7 @@ Business model
 https://www.canva.com/design/DAGqJ9adkzk/pLjOaSisOtYVZoq_WU_DwA/view?utm_content=DAGqJ9adkzk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1d76a3f3ea
 ## 👥 **Team**
 
-<div align="center">More actions
-
-## 👥 Team VisaMate-AI
+<div align="center">
 
 | 👤 Name            | 🎯 Role              | 💼 Expertise        |
 |-------------------|---------------------|---------------------|
