@@ -3,6 +3,8 @@
 
 ## 🎥 **Round 1**
 
+### 📺 **[ Updated Version: K2013_KhwahishVaid_Jazzee2025_PitchVideo](https://youtu.be/TqF4vWGeH1E)**
+
 ### 📺 **[K2013_KhwahishVaid_Jazzee2025_PitchVideo](https://youtu.be/jmmuJdlUTrw)**
 
 ### 📄 **[K2013_KhwahishVaid_Jazzee2025_Document](./K2013_KhwahishVaid_Jazzee2025_Document.pdf)**
