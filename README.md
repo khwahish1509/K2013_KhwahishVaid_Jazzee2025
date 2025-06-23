@@ -9,18 +9,6 @@
 
 ### 📄 **[K2013_KhwahishVaid_Jazzee2025_Document](./K2013_KhwahishVaid_Jazzee2025_Document.pdf)**
 
----
-## 👥 **Team**
-
-<div align="center">
-
-| 👤 Name            | 🎯 Role              | 💼 Expertise        |
-|-------------------|---------------------|---------------------|
-| **Khwahish Vaid** | Team Leader         | Full Stack Developer |
-| **Samarth Sharma**| Data Engineer       | Big Data, Pipelines |
-| **Anay Bhardwaj** | Gen AI Specialist   | LLMs, NLP, LangChain |
-
-> 🔗 *Together, we combined our strengths in AI, data engineering, and full-stack development to build VisaMate-AI – your intelligent guide through Canadian immigration policies.*
 
 ---
 
@@ -37,8 +25,21 @@
 
 ---
 
+## 👥 **Team**
+
 <div align="center">
 
+| 👤 Name            | 🎯 Role              | 💼 Expertise        |
+|-------------------|---------------------|---------------------|
+| **Khwahish Vaid** | Team Leader         | Full Stack Developer |
+| **Samarth Sharma**| Data Engineer       | Big Data, Pipelines |
+| **Anay Bhardwaj** | Gen AI Specialist   | LLMs, NLP, LangChain |
+
+> 🔗 *Together, we combined our strengths in AI, data engineering, and full-stack development to build VisaMate-AI – your intelligent guide through Canadian immigration policies.*
+
+<div align="center">
+  
+---
 ### 🌟 **Made with ❤️ for T$O2025 Hackathon**
 
 **Repository**: `K2013_KhwahishVaid_T-O2025`  
